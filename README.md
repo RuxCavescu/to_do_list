@@ -1,4 +1,4 @@
-Little To Do app.
+Little To Do app - JS.
 
 Features:
 
